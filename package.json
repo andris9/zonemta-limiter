@@ -1,0 +1,18 @@
+{
+    "name": "zonemta-limiter",
+    "version": "1.0.0",
+    "description": "Limiter plugin for ZoneMTA",
+    "main": "index.js",
+    "author": "Andris Reinman",
+    "license": "EUPL-1.1",
+    "scripts": {
+        "test": "grunt"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "eslint-config-nodemailer": "^1.2.0",
+        "grunt": "^1.0.3",
+        "grunt-cli": "^1.2.0",
+        "grunt-eslint": "^20.1.0"
+    }
+}
